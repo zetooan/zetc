@@ -1,0 +1,17 @@
+{
+    "name": "zetooan/zetc",
+    "description": "This framework is simple mvc",
+    "type": "library",
+    "require-dev": {
+        "php": "7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zetooan",
+            "email": "zetooan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
