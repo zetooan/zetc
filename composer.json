@@ -13,5 +13,12 @@
         }
     ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+    {
+      "type": "path",
+      "url": "https://github.com/zetooan/zetc/*"
+    }
+  ]
     "require": {}
 }
